@@ -33,10 +33,7 @@ const CountdownTimer: React.FC = () => {
     <div className='flex flex-col mai-h-screen items-center
     justify-center bg-gradient-to-br from-black to-grey'>
 
-<img src="/public/bg-image.jpg"
- alt=""
- className='absolute top-4xl right-4 h-auto w-40'
-/>
+
 
 <h1 className='text-4xl font-extrabold uppercase mb-6'>
   <span className="text-orange-500"> CountdownTimer</span>
